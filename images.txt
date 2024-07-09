@@ -1,3 +1,2 @@
 nginx
 mysql:8.0.35
-minio
